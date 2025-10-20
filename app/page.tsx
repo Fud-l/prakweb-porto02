@@ -1,3 +1,15 @@
+// import Image from "next/image";
+// import {
+//   SiHtml5,
+//   SiCss3,
+//   SiJavascript,
+//   SiReact,
+//   SiNextdotjs,
+//   SiTailwindcss,
+// } from "react-icons/si";
+
+// ...existing code...
+'use client';
 import Image from "next/image";
 import {
   SiHtml5,
@@ -7,6 +19,7 @@ import {
   SiNextdotjs,
   SiTailwindcss,
 } from "react-icons/si";
+// ...existing code...
 
 export default function Home() {
   return (

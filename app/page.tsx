@@ -35,7 +35,8 @@ export default function Home() {
       />
 
       {/* HERO */}
-      <h1 className="text-4xl font-bold mb-2">Hi, I'm Beta 👻</h1>
+      {/* <h1 className="text-4xl font-bold mb-2">Hi, I'm Beta 👻</h1> */}
+      <h1 className="text-4xl font-bold mb-2">Hi, I&apos;m Beta 👻</h1>
       <p className="text-gray-300 text-center max-w-md mb-12">
         Web Developer & UI Designer who builds Amazing Interactive websites.
       </p>
